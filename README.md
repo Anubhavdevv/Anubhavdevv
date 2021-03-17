@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anubhav</h1>
-<h3 align="center">Tech Enthusiast | Open Source Enthusiast</h3>
+<h1 align='center'> Hi Geeks<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="40" height="40"> This is Anubhav</h1>
+<h3 align="center">Tech Enthusiast & Open Source Enthusiast. Love to learn and explore 🚀</h3>
 
 - 🔭 I’m currently working on [Face-X](https://github.com/akshitagupta15june/Face-X)
 
