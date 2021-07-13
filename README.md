@@ -2,10 +2,10 @@
 <h3 align="center">Tech Enthusiast & Open Source Enthusiast. Love to learn and explore 🚀</h3>
 
 - 🔭 I’m currently working on [Face-X](https://github.com/akshitagupta15june/Face-X)
-
+- 🎓 Pursuing my Bachelors in Computer Science & Engineering.
+- 🔭 Particpant of Gssoc'21
 - 📫 How to reach me **guptaanubhav907@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1xS0yz-v3BRSAh54uo60duCYj33ZYlh36n1aXvFstKAo/edit?usp=sharing](https://docs.google.com/document/d/1xS0yz-v3BRSAh54uo60duCYj33ZYlh36n1aXvFstKAo/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
