@@ -3,7 +3,8 @@
 
 - 🔭 I’m currently working on [Tensorflow](https://github.com/Learn-Write-Repeat/Tensorflow)
 - 🎓 Pursuing my Bachelors in Computer Science & Engineering.
-- 🔭 Particpant of Gssoc'21
+- 🔭 Particpant of GSSOC'21
+- 🔭 Mentor at GWOC'21
 - 📫 How to reach me **guptaanubhav907@gmail.com**
 
 
