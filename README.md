@@ -33,7 +33,7 @@
 
 <p><img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubhav201241&show_icons=true&locale=en&layout=compact" alt="anubhav201241" /></p>
 
-<p>&nbsp;&nbsp;&nbsp;<img align="center" width="450px" height="-600px" src="https://github-readme-stats.vercel.app/api?username=anubhav201241&show_icons=true&locale=en" alt="anubhav201241" /></p>
+<p>&nbsp;&nbsp;&nbsp;<img align="center" width="450px" height="-400px" src="https://github-readme-stats.vercel.app/api?username=anubhav201241&show_icons=true&locale=en" alt="anubhav201241" /></p>
 
 
 <img src="https://activity-graph.herokuapp.com/graph?username=anubhav201241&theme=react-dark&bg_color=00000000&color=037bfc&line=037bfc&point=00000000&area=true&hide_border=true"> <br>
