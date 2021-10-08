@@ -41,10 +41,10 @@
 
 <p align="center">
   <a href="https://github.com/anubhav201241">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=anubhav201241&show_icons=true&locale=en&theme=radical"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=anubhav201241&show_icons=true&locale=en&theme=radical"/>
   </a>
   <a href="https://github.com/anubhav201241">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubhav201241&show_icons=true&locale=en&layout=compact&theme=radical" />
+    <img align="right" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubhav201241&show_icons=true&locale=en&layout=compact&theme=radical" />
   </a>
 </p>
 </details>
