@@ -37,12 +37,14 @@
 
 
 <!-- <p>&nbsp;&nbsp;<img align="left" height="180px" src="https://github-readme-streak-stats.herokuapp.com?user=anubhav201241&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=C3DD29&ring=DD2727&sideNums=ABDD0F&dates=11A4DD)](https://git.io/streak-stats" alt="anubhav201241" /></p> -->
+
+
 <p align="center">
   <a href="https://github.com/anubhav201241">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=anubhav201241&show_icons=true&locale=en"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=anubhav201241&show_icons=true&locale=en&theme=radical"/>
   </a>
   <a href="https://github.com/anubhav201241">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubhav201241&show_icons=true&locale=en&layout=compact" />
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubhav201241&show_icons=true&locale=en&layout=compact&theme=radical" />
   </a>
 </p>
 </details>
