@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="450px" height="300px" alt=gif align="right"> 
 
 
-- 🔭 I’m currently working on [Tensorflow](https://github.com/Learn-Write-Repeat/Tensorflow)
+- 🔭 I’m currently working on [Tensorflow](https://github.com/tensorflow/tensorflow)
 - 🎓 Pursuing my Bachelors in Computer Science & Engineering.
 - 🔭 Particpant of GSSOC'21
 - 🔭 Mentor at GWOC'21
