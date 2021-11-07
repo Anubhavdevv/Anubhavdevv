@@ -58,9 +58,9 @@
 <br>
 <p align="center">
   <a>
-    <img height="140" width="175" src="https://github.com/Anubhavdevv/Anubhavdevv/blob/main/PNG/left.png">
+    <img height="140" width="160" src="https://github.com/Anubhavdevv/Anubhavdevv/blob/main/PNG/left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=anubhavdevv&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=C3DD29&ring=DD2727&sideNums=ABDD0F&dates=11A4DD)](https://git.io/streak-stats"/>
-    <img height="140" width="175" src="https://github.com/Anubhavdevv/Anubhavdevv/blob/main/PNG/right.png">
+    <img height="140" width="160" src="https://github.com/Anubhavdevv/Anubhavdevv/blob/main/PNG/right.png">
   </a>
 </p>
 
