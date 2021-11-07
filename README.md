@@ -56,7 +56,7 @@
 </table>
 
 <br>
-<p align="center">
+<p align="left">
   <a>
     <img height="140" width="160" src="https://github.com/Anubhavdevv/Anubhavdevv/blob/main/PNG/left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=anubhavdevv&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=C3DD29&ring=DD2727&sideNums=ABDD0F&dates=11A4DD)](https://git.io/streak-stats"/>
