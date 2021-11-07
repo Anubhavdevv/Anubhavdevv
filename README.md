@@ -14,16 +14,16 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <br/>
-<a href="https://www.linkedin.com/in/anubhav-gupta-09b2401b6/">
+<a href="https://www.linkedin.com/in/anubhavdevv/">
   <img alt="Anubhav's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
 </a>&nbsp&nbsp&nbsp
-<a href="https://twitter.com/Anubhav43591222">
+<a href="https://twitter.com/Anubhavdevv">
   <img alt="Anubhav | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
 </a>&nbsp&nbsp&nbsp
 <a href="https://www.kaggle.com/anubhav202">
   <img alt="Anubhav's Kaggle" width="35px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" />
 </a>&nbsp&nbsp&nbsp
-<a href="https://www.instagram.com/anubhav__1_2_3/">
+<a href="https://www.instagram.com/anubhavdevv/">
   <img alt="Anubhav's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>&nbsp&nbsp&nbsp
 </p>
@@ -42,13 +42,13 @@
 <tr>
   <td align="center">
   <p align="center">
-  <a href="https://github.com/anubhav201241">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=anubhav201241&show_icons=true&locale=en&theme=radical"/>
+  <a href="https://github.com/anubhavdevv">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=anubhavdevv&show_icons=true&locale=en&theme=radical"/>
   </a>
   </td>
   <td align="center">
-  <a href="https://github.com/anubhav201241">
-    <img align="center" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubhav201241&show_icons=true&locale=en&layout=compact&theme=radical" />
+  <a href="https://github.com/anubhavdevv">
+    <img align="center" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubhavdevv&show_icons=true&locale=en&layout=compact&theme=radical" />
   </a>
   </td>
 </p>
@@ -59,9 +59,9 @@
 <p align="center">
   <a>
     <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=anubhav201241&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=C3DD29&ring=DD2727&sideNums=ABDD0F&dates=11A4DD)](https://git.io/streak-stats"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=anubhavdevv&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=C3DD29&ring=DD2727&sideNums=ABDD0F&dates=11A4DD)](https://git.io/streak-stats"/>
     <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/right.png">
   </a>
 </p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=anubhav201241&theme=react-dark&bg_color=00000000&color=037bfc&line=037bfc&point=00000000&area=true&hide_border=true"> <br>
+<img src="https://activity-graph.herokuapp.com/graph?username=anubhavdevv&theme=react-dark&bg_color=00000000&color=037bfc&line=037bfc&point=00000000&area=true&hide_border=true"> <br>
