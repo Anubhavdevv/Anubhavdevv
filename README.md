@@ -15,7 +15,7 @@
 <p align="left">
 <br/>
 <a href="https://www.linkedin.com/in/anubhavdevv/">
-  <img alt="Anubhav's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+  <img alt="Anubhav's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/png/128/174/174857.png" />
 </a>&nbsp&nbsp&nbsp
 <a href="https://twitter.com/Anubhavdevv">
   <img alt="Anubhav | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
