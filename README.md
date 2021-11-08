@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <br/>
-<a href="https://www.linkedin.com/in/anubhavdevv/">
+<a href="https://www.linkedin.com/in/anubhavdev/">
   <img alt="Anubhav's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/png/128/174/174857.png" />
 </a>&nbsp&nbsp&nbsp
 <a href="https://twitter.com/Anubhavdevv">
