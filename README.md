@@ -24,7 +24,7 @@
   <img alt="Anubhav's Kaggle" width="35px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" />
 </a>&nbsp&nbsp&nbsp
 <a href="https://www.instagram.com/__anubhavv/">
-  <img alt="Anubhav's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+  <img alt="Anubhav's Instagram" width="35px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
 </a>&nbsp&nbsp&nbsp
 </p>
 <h3 align="left">Languages and Tools:</h3>
