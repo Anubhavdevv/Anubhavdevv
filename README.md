@@ -8,6 +8,8 @@
 - 🎓 Pursuing my Bachelors in Computer Science & Engineering.
 - 🔭 Particpant of GSSOC'21
 - 🔭 Mentor at GWOC'21
+- 🔭 MicrosoftLearn Ambassador | AngelHack Ambassador | Organizer at AzdevIndia
+- 🔭 Hackathons 🙌
 - 📫 How to reach me **guptaanubhav907@gmail.com**
 
 
