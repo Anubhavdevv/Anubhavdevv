@@ -10,6 +10,7 @@
 - 🔭 Mentor at GWOC'21
 - 🔭 MicrosoftLearn Ambassador | AngelHack Ambassador | Organizer at AzdevIndia
 - 🔭 Hackathons 🙌
+- 🤔 I’m looking for help in finding internship opportunities
 - 📫 How to reach me **guptaanubhav907@gmail.com**
 
 
