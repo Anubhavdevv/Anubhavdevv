@@ -8,6 +8,7 @@
 - 🎓 Pursuing my Bachelors in Computer Science & Engineering.
 - 🔭 Particpant of GSSOC'21
 - 🔭 Mentor at GWOC'21
+- 🔭**Web developer** @ [GSSoC'22](https://gssoc.girlscript.tech/)✨ <br>
 - 🔭 MicrosoftLearn Ambassador | AngelHack Ambassador | Organizer at AzdevIndia
 - 🔭 Hackathons 🙌
 - 🤔 I’m looking for help in finding internship opportunities
