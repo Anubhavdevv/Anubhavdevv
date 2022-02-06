@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Tensorflow](https://github.com/tensorflow/tensorflow)
 - 🎓 Pursuing my Bachelors in Computer Science & Engineering.
-- 🔭 Particpant of GSSOC'21
+- 🔭 Particpant of GSSOC'20
 - 🔭 Mentor at GWOC'21
 - 🔭**Web developer** @ [GSSoC'22](https://gssoc.girlscript.tech/)✨ <br>
 - 🔭 MicrosoftLearn Ambassador | AngelHack Ambassador | Organizer at AzdevIndia
