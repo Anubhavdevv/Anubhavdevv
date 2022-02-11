@@ -1,8 +1,9 @@
-<h1 align='center'> Hi Geeks<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="40" height="40"> This is Anubhav</h1>
+<h1 align='center'> Hi Geeks<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="40" height="40"> I'm Anubhav</h1>
 <h3 align="center">Tech Enthusiast & Open Source Enthusiast. Love to learn and explore 🚀</h3>
 
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="450px" height="300px" alt=gif align="right"> 
 
+## 🚀 About Me
 
 - 🔭 I’m currently working on [Tensorflow](https://github.com/tensorflow/tensorflow)
 - 🎓 Pursuing my Bachelors in Computer Science & Engineering.
@@ -14,9 +15,28 @@
 - 🤔 I’m looking for help in finding internship opportunities
 - 📫 How to reach me **guptaanubhav907@gmail.com**
 
+<!-- ## 🙌 My Experiences 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### ➤ [➤ LFX Mentee for FALL'21](https://mentorship.lfx.linuxfoundation.org/project/9e7f18e3-68ee-44f8-ac74-55e802fce8e3): </br>
+<IMG SRC="https://fellowship.mlh.io/favicon.ico" ALIGN="left" width="70" height="70" /> LFX mentorship is a program under CNCF which promotes adoption, innovation and sustainability of open source. Worked on[Cluster API Provider GCP (CAPG)](https://github.com/kubernetes-sigs/cluster-api-provider-gcp), a Kubernetes cluster api implementation using GCP. Improved the documentation and added a few scripts for further enhancement Contributed to  and enhanced the documentation and also added few scripts.
+
+### ➤ [➤ Open Source Day 2021 Contributor](https://ghc.anitab.org/programs-and-awards/open-source-day/): </br>
+<IMG SRC="https://4b7xbg26zfmr1aupi724hrym-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/cropped-GHC_Logos_kjs12_onC-1-e1596554845308-192x192.png" ALIGN="left" width="70" height="70" />Attendee/Contributor at [AnitaB](https://anitab.org/). Open Source Day (OSD) is an all-day hackathon (including workshops), in which participants of all skill levels learn about Open Source while contributing to projects designed to solve real world problems.Contributed to open source project [Tern](https://github.com/tern-tools/tern) under VMware.
+
+### ➤ [➤ GSSOC'21 Participant](https://gssoc.girlscript.tech/): </br>
+<IMG SRC="https://github.com/VishwaGauravIn/Images/blob/main/gssoc_sq.png" ALIGN="left" width="70" height="70" /> Contributed to various projects, automation scripts mainly based on Python or C++. Developed efficient solutions to complex algorithmic problems in Python. </br></br>
+
+### ➤ [➤ Microsoft Student Learn Ambassador](https://studentambassadors.microsoft.com/): </br>
+<IMG SRC="https://github.com/VishwaGauravIn/Images/blob/main/microsoft_student_learn_ambassador.png" ALIGN="left" width="75" height="70" />  Student Ambassadors are a global group of campus leaders who are eager to help fellow students, create robust tech communities and develop technical and career skills for the future. </br></br>
+<br>
+
+## 🥇 Honors & Awards 
+- Selected as a recipient of [AWS Machine Learning Scholarship Program](https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program) designed to upskill professionals interested in using emerging Machine Learning concepts to enhance organization's IT infrastructure.
+- Selected as a scholarship recipient for [Open Source Summit](https://events.linuxfoundation.org/open-source-summit-north-america/) & [KubeCon + CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) in the year 2020 and 2021.
+<br> -->
+
+## 📌 Connect with me 
+
 <br/>
 <a href="https://www.linkedin.com/in/anubhavdev/">
   <img alt="Anubhav's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/png/128/174/174857.png" />
