@@ -42,9 +42,8 @@
 <a href="https://www.linkedin.com/in/anubhavdev/">
   <img alt="Anubhav's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/png/128/174/174857.png" />
 </a>&nbsp&nbsp&nbsp
-<a href="https://twitter.com/Anubhavdevv">
-  <img alt="Anubhav | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
-</a>&nbsp&nbsp&nbsp
+<a href="https://twitter.com/Anubhavdevv" target="blank">
+  <img alt="Anubhav | Twitter" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
 <a href="https://www.kaggle.com/anubhav202">
   <img alt="Anubhav's Kaggle" width="35px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" />
 </a>&nbsp&nbsp&nbsp
