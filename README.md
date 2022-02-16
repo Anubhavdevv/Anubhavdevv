@@ -39,9 +39,9 @@
 <p align="center"><img align="center" alt="Coding" width="100%" src="https://cdn.discordapp.com/attachments/854369708812140564/942666586936975400/Anubhav_Banner.gif"></p>
 
 <br/>
-<a href="https://www.linkedin.com/in/anubhavdev/">
+<!-- <a href="https://www.linkedin.com/in/anubhavdev/">
   <img alt="Anubhav's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/png/128/174/174857.png" />
-</a>&nbsp&nbsp&nbsp
+</a>&nbsp&nbsp&nbsp -->
 <a href="https://twitter.com/Anubhavdevv" target="blank">
   <img alt="Anubhav | Twitter" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
 <a href="https://www.kaggle.com/anubhav202">
