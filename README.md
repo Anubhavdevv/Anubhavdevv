@@ -35,7 +35,7 @@
 - Selected as a scholarship recipient for [Open Source Summit](https://events.linuxfoundation.org/open-source-summit-north-america/) & [KubeCon + CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) in the year 2020 and 2021.
 <br> -->
 
-## 📌 Connect with me 
+## 📌 Connect with me <img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/main/Images/Handshake.gif" width="45px">
 <p align="center"><img align="center" alt="Coding" width="100%" src="https://cdn.discordapp.com/attachments/854369708812140564/942666586936975400/Anubhav_Banner.gif"></p>
 
 <br/>
