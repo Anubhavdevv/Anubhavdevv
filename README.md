@@ -1,4 +1,4 @@
-<h1 align='center'> Hi Geeks<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="40" height="40"> I'm Anubhav</h1>
+<h1 align='center'> Hey Folks<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="40" height="40"> I'm Anubhav</h1>
 <h3 align="center">Tech Enthusiast & Open Source Enthusiast. Love to learn and explore 🚀</h3>
 <p align="center"><img align="center" alt="Coding" width="100%" src="https://cdn.discordapp.com/attachments/880152287320883201/942004244326797332/standard_4.gif"></p>
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="450px" height="300px" alt=gif align="right"> 
@@ -13,6 +13,7 @@
 - 🔭 MicrosoftLearn Ambassador | AngelHack Ambassador | Organizer at AzdevIndia
 - 🔭 Hackathons 🙌
 - 🤔 I’m looking for help in finding internship opportunities
+- 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source 
 - 📫 How to reach me **guptaanubhav907@gmail.com**
 
 <!-- ## 🙌 My Experiences 
