@@ -43,14 +43,14 @@
 <!-- <a href="https://www.linkedin.com/in/anubhavdev/">
   <img alt="Anubhav's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/png/128/174/174857.png" />
 </a>&nbsp&nbsp&nbsp -->
-<a href="https://twitter.com/Anubhavdevv" target="blank">
-  <img alt="Anubhav | Twitter" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+<a href="https://twitter.com/Anubhavdevv">
+  <img alt="Anubhav | Twitter" width="35px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
 <a href="https://www.kaggle.com/anubhav202">
   <img alt="Anubhav's Kaggle" width="35px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" />
-</a>&nbsp&nbsp&nbsp
-<a href="https://www.instagram.com/__anubhavv/">
-  <img alt="Anubhav's Instagram" width="35px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-</a>&nbsp&nbsp&nbsp
+</a>&nbsp&nbsp
+<a href="https://www.linkedin.com/in/anubhavdev">
+  <img alt="Anubhav's Kaggle" width="35px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+</a>&nbsp&nbsp&nbsp  
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/shahriarshafin/shahriarshafin/development/Assets/css.gif" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/shahriarshafin/shahriarshafin/development/Assets/html.gif" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
