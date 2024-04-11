@@ -37,7 +37,7 @@
 <br> -->
 
 ## 📌 Connect with me <img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/main/Images/Handshake.gif" width="45px">
-<p align="center"><img align="center" alt="Coding" width="100%" src="https://cdn.discordapp.com/attachments/854369708812140564/942666586936975400/Anubhav_Banner.gif"></p>
+<!--<p align="center"><img align="center" alt="Coding" width="100%" src="https://cdn.discordapp.com/attachments/854369708812140564/942666586936975400/Anubhav_Banner.gif"></p>-->
 
 <br/>
 <!-- <a href="https://www.linkedin.com/in/anubhavdev/">
