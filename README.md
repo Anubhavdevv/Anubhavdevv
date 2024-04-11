@@ -6,14 +6,14 @@
 ## 🚀 About Me
 
 <!-- - 🔭 I’m currently working on [Tensorflow](https://github.com/tensorflow/tensorflow) -->
+- 💼 Software Engineer at CM.com
 - 🎓 Pursuing my Bachelors in Computer Science & Engineering.
 - 🔭 Particpant of GSSOC'20
 - 🔭 Mentor at GWOC'21
 - 🔭**Web developer** @ [GSSoC'22](https://gssoc.girlscript.tech/)✨ <br>
 - 🔭 MicrosoftLearn Ambassador | AngelHack Ambassador | Organizer at AzdevIndia
 - 🔭 Hackathons 🙌
-- 🤔 I’m looking for help in finding internship opportunities
-- 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source 
+- 💬 Talk to me about Python, JavaScript, Backend Development, Freelancing Opportunites, Open Source 
 - 📫 How to reach me **guptaanubhav907@gmail.com**
 
 <!-- ## 🙌 My Experiences 
